@@ -10,6 +10,9 @@ function App() {
             Counselling-for-Toads-A-Psychological-Adventure
           </a>
         </li>
+        <li>
+          <a href="/GitPro2/index.html">GitPro2</a>
+        </li>
       </ul>
     </div>
   )
